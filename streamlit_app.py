@@ -52,7 +52,7 @@ def build_agent(tools):
 # --------------------------------------------------------------------
 # 3. Streamlit UI
 # --------------------------------------------------------------------
-st.set_page_config(page_title="RAG + Web Search 챗봇", page_icon="🤖")
+st.set_page_config(page_title="RAG + Web Search 챗봇입니다.", page_icon="🤖")
 st.title("📄🔍 PDF RAG + 웹 검색 챗봇")
 
 with st.sidebar:
